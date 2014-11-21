@@ -3,7 +3,7 @@
 // Simulate whole-exome sequencing study to identify mendelian disease loci using 1000 genomes reference data
 //
 // Author: Ben Lerch
-// Last Update: Nov 2014
+// Last Update: Oct 2014
 
 #include <stdio.h>
 #include <stdlib.h>
